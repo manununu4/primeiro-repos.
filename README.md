@@ -1,4 +1,4 @@
-<h1> Pulga </h1>
+<h1> Pulga
 Tentei fazer valer a pena
 Passei por cima dos problemas
 Achei que eu era o bastante
@@ -42,4 +42,4 @@ O que faço com os planos dos próximos anos
 Juro que não sei
 Só sei que eu senti amor
 Que pena, só eu senti amor
-Só eu (Só eu) Senti amor
+Só eu (Só eu) Senti amor </h1>
