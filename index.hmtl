@@ -1,45 +1,60 @@
-<h1> Péricles </h1>
-Tentei fazer valer a pena
-Passei por cima dos problemas
-Achei que eu era o bastante
-Mas não fui pra você
-Tentei ser um cara perfeito
-Eu fiz as coisas do seu jeito
-Queria ser mais importante
-Mas não fui pra você
-Até que durou, me diz o porquê
-Perdeu tanto tempo aqui
-Te faço um favor, melhor eu sumir
-Fui mais um nas suas mãos
-Não sei se por carência ou falta de opção
-Só sei que eu senti amor
-Que pena, só eu senti amor
-O que faço com os planos dos próximos anos
-Juro que não sei
-Só sei que eu senti amor
-Que pena, só eu senti amor
-Só eu senti amor
-Tentei ser um cara perfeito
-Eu fiz as coisas do seu jeito
-Queria ser mais importante
-Mas não fui pra você
-Até que durou, me diz o porquê
-(Perdeu tanto tempo aqui)
-Te faço um favor, melhor eu sumir
-Fui mais um nas suas mãos
-Não sei se por carência ou falta de opção
-Só sei que eu senti amor
-Que pena, só eu senti amor
-O que faço com os planos dos próximos anos
-Juro que não sei
-Só sei que eu senti amor
-Que pena, só eu senti amor
-Fui mais um nas suas mãos
-Não sei se por carência ou falta de opção
-Só sei que eu senti amor
-Que pena, só eu senti amor
-O que faço com os planos dos próximos anos
-Juro que não sei
-Só sei que eu senti amor
-Que pena, só eu senti amor
-Só eu (Só eu) Senti amor
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1 class="centro"> Péricles - Até que durou </h1>
+<p>Tentei fazer valer a pena <br>
+Passei por cima dos problemas <br>
+Achei que eu era o bastante <br>
+Mas não fui pra você <br>
+Tentei ser um cara perfeito <br>
+Eu fiz as coisas do seu jeito <br>
+Queria ser mais importante <br>
+Mas não fui pra você <br>
+Até que durou, me diz o porquê <br>
+Perdeu tanto tempo aqui <br>
+Te faço um favor, melhor eu sumir <br>
+Fui mais um nas suas mãos <br>
+Não sei se por carência ou falta de opção <br>
+Só sei que eu senti amor <br>
+Que pena, só eu senti amor <br>
+O que faço com os planos dos próximos anos <br>
+Juro que não sei <br>
+Só sei que eu senti amor <br>
+Que pena, só eu senti amor <br>
+Só eu senti amor <br>
+Tentei ser um cara perfeito <br>
+Eu fiz as coisas do seu jeito <br>
+Queria ser mais importante <br>
+Mas não fui pra você <br>
+Até que durou, me diz o porquê <br>
+(Perdeu tanto tempo aqui) <br>
+Te faço um favor, melhor eu sumir <br>
+Fui mais um nas suas mãos <br>
+Não sei se por carência ou falta de opção <br>
+Só sei que eu senti amor <br>
+Que pena, só eu senti amor <br>
+O que faço com os planos dos próximos anos <br>
+Juro que não sei <br>
+Só sei que eu senti amor <br>
+Que pena, só eu senti amor <br>
+Fui mais um nas suas mãos <br>
+Não sei se por carência ou falta de opção <br>
+Só sei que eu senti amor <br>
+Que pena, só eu senti amor <br>
+O que faço com os planos dos próximos anos <br>
+Juro que não sei <br>
+Só sei que eu senti amor <br>
+Que pena, só eu senti amor <br>
+Só eu (Só eu) Senti amor </p>
+
+
+</body>
+
+</html>
